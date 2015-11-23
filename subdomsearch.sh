@@ -2,7 +2,7 @@
 
 ##################################################################
 #                                                                #
-#           Subdomain Enumeration Script by CryoGanix.           #
+#              Subdomain Enumeration Script by Cry0              #
 #                                                                #
 # This script essentially enumerates every subdomain in a domain #
 #   (or at least attempts to). If it can't, then it enumerates   #
